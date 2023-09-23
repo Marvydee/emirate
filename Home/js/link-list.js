@@ -1,0 +1,1 @@
+$((jQuery,void $((function(){$(".frequently-tasks__swiper").hasClass("swiper-initialized")||nbdFrequentlyTasks()}))));var nbdFrequentlyTasks=function(){new Swiper(".frequently-tasks__swiper",{slidesPerView:1,spaceBetween:0,autoHeight:!0,pagination:{el:".frequently-tasks__swiper-pagination",clickable:!0},breakpoints:{768:{slidesPerView:3}}})};
